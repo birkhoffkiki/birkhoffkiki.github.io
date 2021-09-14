@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 ### Introduction
-I am interested in the application of computer vision in medical image analysis, and can use Python, C++ and other tools to develop and deploy algorithms. During my master's degree, I participated in the development of computer-aided cervical cancer diagnosis system and accumulated rich engineering experience. In addition, I am able to independently carry out academic research and I published a top journal IEEE TMI in the field of medical imaging.
+I am interested in the application of computer vision in medical image analysis, and can use Python, C++ and other tools to develop and deploy algorithms. During my master's degree, I participated in the development of computer-aided cervical cancer diagnosis system and accumulated rich engineering experience. In addition, I am able to independently carry out academic research.
 ### Education
 2015.9-2019.7: Bachelor, Biomedical Engineering, Huazhong University of Science & Technology  
 2019.9-present: Master, Biomedical Engineering, Huazhong University of Science & Technology  

@@ -7,7 +7,7 @@ filename: index
 I am interested in the application of computer vision in medical or biomedical image analysis, and can use Python, C++ and other tools to develop and deploy algorithms. I am able to independently carry out academic research and my current researches include cytology image super-resolution and analysis. I also participated in the development of computer-aided cervical cancer diagnosis system and accumulated rich engineering experience. I hope I can study with talents and do some cool works in the future.
 ### Education
 2015.9-2019.7: Bachelor, Biomedical Engineering, Huazhong University of Science & Technology  
-2019.9-present: Master, Biomedical Engineering, Huazhong University of Science & Technology  
+2019.9-present: Master, Biomedical Engineering, Huazhong University of Science & Technology, under supervision of Prof. [Shaoqun Zeng](https://orcid.org/0000-0002-1802-337X).
 
 ### Research Publications
 - **Ma, J.**, Yu, J., Liu, S., Chen, L., Li, X., Feng, J., ... & Cheng, S. (2020). PathSRGAN: Multi-supervised super-resolution for cytopathological images using generative adversarial network. IEEE transactions on medical imaging, 39(9), 2920-2930. 
